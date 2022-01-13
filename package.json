@@ -1,0 +1,8 @@
+{
+  "name": "Cleaner",
+  "author": "John Oseni",
+  "dependencies": {
+    "bitcoin": "3.0.1",
+    "jsonminify": "0.2.3"
+  }
+}
